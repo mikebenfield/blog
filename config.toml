@@ -1,4 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Mike's site"
+title = "Michael Benfield's blog"
 theme = "temple"
+
+[author]
+name = "Michael Benfield"
+github = "mikebenfield"
+email = "mike.benfield@gmail.com"
