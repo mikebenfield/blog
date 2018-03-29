@@ -9,10 +9,12 @@ I and my collaborators Irina Kogan and Kris Jenssen have submitted a paper on
 our new theorem.
 
 We'll have a preprint of the paper on the arXiv soon, and I'll update this post
-with a link then. However, it will not be an easy read for non-mathematicians,
-so I will describe the result informally for the non-expert reader in this post.
-The reader will need to know enough calculus to know what a directional
-derivative is, and ideally will have taken a course in differential equations.
+with a link then. *Update: the preprint is
+[here](https://arxiv.org/abs/1803.09147)*. However, it will not be an easy read
+for non-mathematicians, so I will describe the result informally for the
+non-expert reader in this post. The reader will need to know enough calculus to
+know what a directional derivative is, and ideally will have taken a course in
+differential equations.
 
 # Background: Overdetermined systems
 
